@@ -22,6 +22,8 @@ Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
+ 
+  ![Snake animation](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
+  
 </div><br/>
 
