@@ -1,17 +1,17 @@
-### Olá, eu sou a Jaíne Sena 👋
+### Olá, eu sou a Jaíne!
 
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/tiajaii)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiajaii)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ja%C3%ADne-sena-611927175/)
 
-<h5> Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 anos de experiência em projetos. 
-Atualmente estou aprimorando o conhecimento em desenvolvimento de sistemas visando aplicação na área da saúde.</h5>
+<h6> Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 anos de experiência em projetos. 
+Atualmente estou aprimorando o conhecimento em desenvolvimento de sistemas visando aplicação na área da saúde.</h6>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=dracula)
 
 
-<h5> Tecnologias que estou estudando: </h5>
+<h6> Tecnologias que estou estudando: </h6>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,8 +23,4 @@ Atualmente estou aprimorando o conhecimento em desenvolvimento de sistemas visan
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 </div><br/>
-
-![snake gif](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
-
-
 
