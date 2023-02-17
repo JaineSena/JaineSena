@@ -5,7 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiajaii)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ja%C3%ADne-sena-611927175/)
 
-<h6> Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 anos de experiência em projetos. 
+<h6> Olá! Meu nome é Jaine, tenho 23 anos e sou apaixonada por tecnologia.
+Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 anos de experiência em projetos. 
 Atualmente estou aprimorando o conhecimento em desenvolvimento de sistemas visando aplicação na área da saúde.</h6>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=dracula)
