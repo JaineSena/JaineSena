@@ -24,9 +24,7 @@ Atualmente estou aprimorando o conhecimento em desenvolvimento de sistemas visan
 
 </div><br/>
 
-
 ![snake gif](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
