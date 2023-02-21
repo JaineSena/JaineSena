@@ -9,7 +9,7 @@
 
 
 <h6> Olá! Meu nome é Jaine, tenho 23 anos e sou apaixonada por tecnologia.<br>
-  
+  <br/>
 Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 anos de experiência em projetos. Atualmente estou aprimorando o conhecimento em desenvolvimento de sistemas visando aplicação na área da saúde.</h6>
 
 <h6> Tecnologias que estou estudando: </h6>
@@ -23,5 +23,5 @@ Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  
   
-</div><br/>
+</div>
 
