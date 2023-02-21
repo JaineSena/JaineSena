@@ -12,9 +12,6 @@
   
 Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 anos de experiência em projetos. Atualmente estou aprimorando o conhecimento em desenvolvimento de sistemas visando aplicação na área da saúde.</h6>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=dracula)
-
-
 <h6> Tecnologias que estou estudando: </h6>
 
 <div style="display: inline_block">
