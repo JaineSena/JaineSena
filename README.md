@@ -25,3 +25,4 @@ Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 
   
 </div>
 
+![GITHUB](https://user-images.githubusercontent.com/121972347/221013991-dfc430ee-ff12-4128-be25-81f920e1a304.gif)
