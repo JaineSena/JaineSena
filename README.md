@@ -33,7 +33,7 @@ Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 
 
  <br/>
  
- <br>
+ 
  ![snake gif](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
-  <br/>
+  
 
