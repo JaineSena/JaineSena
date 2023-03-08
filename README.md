@@ -34,7 +34,7 @@ Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 
  <br/>
  
  
- ![Snake animation](https://github.com/jainesena/jainesena/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jainesena/jainesena/blob/output/github-contribution-grid-snake.svg) 
 
   
 
