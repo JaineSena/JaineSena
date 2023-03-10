@@ -13,7 +13,7 @@
 
 Sou graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto e possuo mais de 7 anos de experiência em projetos. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de sistemas, com o objetivo de aplicá-los na área da saúde.
 
-Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, C#, C++ e C. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e habilidades em projetos inovadores e impactantes na área da saúde</h6>
+Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, C#, C++ e C. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e habilidades em projetos inovadores e impactantes na área da saúde.</h6>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
