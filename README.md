@@ -36,6 +36,8 @@ Graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto, tenho mais de 7 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=synthwave)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSena&hide_progress=true)](https://github.com/JaineSena/github-readme-stats)
+ 
   ![Snake animation](https://github.com/jainesena/jainesena/blob/output/github-contribution-grid-snake.svg) 
   
   ps, alguém me ajuda com esse bug da cobrinha?
