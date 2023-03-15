@@ -12,6 +12,8 @@ on:
 
 # Regras
 jobs:
+permissions:
+  contents: write
   build:
     runs-on: ubuntu-latest
     steps:
