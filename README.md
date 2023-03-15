@@ -42,6 +42,7 @@ Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, C#, C++ e
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSena&layout=compact)](https://github.com/JaineSena/github-readme-stats)
  
   ![Snake animation](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
+  <br>
   ![snake gif](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
 
 
