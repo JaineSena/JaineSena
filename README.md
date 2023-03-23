@@ -1,6 +1,6 @@
 ### Olá, eu sou a Jaíne!
 
-![giphy](https://user-images.githubusercontent.com/121972347/227204248-1efa929e-ff95-4b58-9329-13e7b8f14947.gif)
+![giphy (1)](https://user-images.githubusercontent.com/121972347/227204749-f7129373-8279-4a98-8f03-625176e6c2b4.gif)
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/tiajaii)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiajaii)
