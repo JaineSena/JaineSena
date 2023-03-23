@@ -1,5 +1,3 @@
-### Olá, eu sou a Jaíne!
-
 ![giphy (1)](https://user-images.githubusercontent.com/121972347/227204749-f7129373-8279-4a98-8f03-625176e6c2b4.gif)
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/tiajaii)
