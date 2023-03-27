@@ -34,21 +34,7 @@ Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, C#, C++ e
  <br/>
  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=synthwave)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSena&hide_progress=true)](https://github.com/JaineSena/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSena&layout=compact)](https://github.com/JaineSena/github-readme-stats)
- 
-  ![Snake animation](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
-  <br>
-  ![snake gif](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
-
-
-
-  
-  ps, alguém me ajuda com esse bug da cobrinha?
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=transparent)
 
   
 
