@@ -33,8 +33,6 @@ Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, C#, C++ e
 
  <br/>
  
- ![Snake animation](https://github.com/JaineSena/JaineSena/blob/output/github-contribution-grid-snake.svg)
-
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=transparent)
  
