@@ -28,8 +28,8 @@ Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, C#, C++ e
 
 <br>
 
+![final+with+character+in+window](https://github.com/JaineSena/JaineSena/assets/121972347/0d3ebe74-642e-4080-87cc-e4dcad57925c)
 
-![git](https://user-images.githubusercontent.com/121972347/221019808-0720d9f2-b2e5-43a6-bb97-a78d03433283.gif)
 
  <br/>
  
