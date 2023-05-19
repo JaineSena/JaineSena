@@ -1,4 +1,3 @@
-![giphy (1)](https://user-images.githubusercontent.com/121972347/227204749-f7129373-8279-4a98-8f03-625176e6c2b4.gif)
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/tiajaii)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiajaii)
@@ -7,7 +6,7 @@
 
 
 
-<h6> Olá! Meu nome é Jaine, tenho 23 anos e sou apaixonada por tecnologia.<br>
+<h6> Olá! Meu nome é Jaine, tenho 24 anos e sou apaixonada por tecnologia.<br>
   <br/>
 
 Sou graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto e possuo mais de 7 anos de experiência em projetos. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de sistemas, com o objetivo de aplicá-los na área da saúde.
