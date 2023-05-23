@@ -35,6 +35,6 @@ Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, C#, C++ e
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaineSena&show_icons=true&theme=tokyonight)
  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JaineSena)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSena&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
