@@ -6,7 +6,7 @@
 
 
 
-<h6> Olá! Meu nome é Jaine, tenho 24 anos e sou apaixonada por tecnologia.<br>
+<h6> Olá! Meu nome é Jaine, e tenho 24 anos.<br>
   <br/>
 
 Sou graduada em Sistemas Biomédicos pela FATEC em Ribeirão Preto e possuo mais de 7 anos de experiência em projetos. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de sistemas, com o objetivo de aplicá-los na área da saúde.
